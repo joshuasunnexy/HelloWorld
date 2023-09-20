@@ -1,2 +1,5 @@
-let name = "Joshua";
-console.log(`Hello ${name}, how was your day?`);
+function sayHello(name){
+  console.log(`Hello ${name}, how was your day`);
+}
+
+sayHello("Joshua");
